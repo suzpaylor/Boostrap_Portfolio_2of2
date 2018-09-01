@@ -1,0 +1,76 @@
+body {
+    background: #f2f2f2;
+    font-family: 'Inconsolata', monospace;
+}
+.container {
+    background: #f2f2f2!important;
+}
+
+.payFam {
+    border: 10px solid white;
+    margin: 30px;
+}
+
+img {
+    border: 10px solid white;
+    margin: 10px;
+}
+
+.firstRow {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.secondRow {
+    margin-bottom: 30px;
+    margin-left: 60px
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: #cacaca!important;    
+    }
+
+.bio {
+    margin: 40px;
+}
+
+.suzMain {
+    background-color: #f2f2f2;
+}    
+
+a {
+    color:#2125298c!important;
+}
+
+.name1 {
+    padding-top: 20px;
+}
+
+
+#bBakery {
+    font-family: 'Unica One', cursive;
+    font-size: 170%;
+    float: right!important;
+}
+
+#suzdaily {
+    font-family: 'Unica One', cursive;
+    font-size: 170%;
+    float: left!important;
+}
+
+
+.footer {
+    margin: auto;
+    height: 60px;
+    background: #cacaca;
+    padding : 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.clear {
+    clear: both;
+}
